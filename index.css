@@ -4,5 +4,20 @@ h1 {
 }
 
 p {
+    display: flex;
+    flex: 1;
     text-align: center;
+}
+
+
+
+h4 {
+    text-align: center;
+    background-color: rgb(212, 211, 211);
+    margin-top: 100vh;
+
+}
+
+div{
+    margin: 1em;
 }

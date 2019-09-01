@@ -1,0 +1,15 @@
+#main-header {
+    text-align: center;
+    background: black;
+    color: azure;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+#main-footer {
+    text-align: center;
+    font-size: 18px;
+    background: gray;
+    color: black;
+}
